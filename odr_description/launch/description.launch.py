@@ -15,7 +15,7 @@ def generate_launch_description():
             PathJoinSubstitution([FindExecutable(name="xacro")]),
             " ",
             PathJoinSubstitution(
-                [FindPackageShare("husky_description"), "urdf", "husky.urdf.xacro"]
+                [FindPackageShare("odr_description"), "urdf", "odr.urdf.xacro"]
             ),
         ]
     )
