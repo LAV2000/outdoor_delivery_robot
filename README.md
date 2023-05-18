@@ -1,3 +1,6 @@
 # outdoor_delivery_robot
+
 Outdoor Delivery Robot (HUST)
-OK nha
+## Yêu cầu
+- Ubuntu 20.04
+- ROS2 Foxy
