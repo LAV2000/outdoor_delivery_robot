@@ -2,5 +2,5 @@
 
 Outdoor Delivery Robot (HUST)
 ## Yêu cầu
-- Ubuntu 20.04
-- ROS2 Foxy
+- Ubuntu [20.04](https://releases.ubuntu.com/focal/)
+- ROS2 [Foxy](https://docs.ros.org/en/foxy/Installation.html)
